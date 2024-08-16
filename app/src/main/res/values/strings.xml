@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">APITesting</string>
+    <string name="product_image">Product Image</string>
+        <string-array name="country_calling_codes">
+            <item>+977 (Nepal)</item>
+            <item>+1 (Canada)</item>
+            <item>+1 (USA)</item>
+            <item>+91 (India)</item>
+            <item>+44 (UK)</item>
+            <item>+81 (Japan)</item>
+            <item>+61 (Australia)</item>
+            <item>+86 (China)</item>
+            <item>+49 (Germany)</item>
+            <item>+33 (France)</item>
+        </string-array>
+
+</resources>
